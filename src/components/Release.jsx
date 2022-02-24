@@ -12,16 +12,16 @@ export default function Release() {
           <h2 className="title">Initial Release 4/11</h2>
           <p className="description">
             We have released four limited edition NFTs early which can be bid on
-            via <a href="#">OpenSea</a>
+            via <span >OpenSea</span>
           </p>
           <p className="description">
             There will be the only four of these NFTs we ever make, so be sure
             not to miss out!
           </p>
           <p className="description">50% of proceeds go to charity.</p>
-          <a href="#" className="link">
+          <div className="link">
             Check them out <BsArrowRight />
-          </a>
+          </div>
         </div>
         <div className="image">
           <img src={release1} alt="release" />
@@ -44,16 +44,16 @@ export default function Release() {
           <h2 className="title">Initial Release 4/11</h2>
           <p className="description">
             We have released four limited edition NFTs early which can be bid on
-            via <a href="#">OpenSea</a>
+            via <span>OpenSea</span>
           </p>
           <p className="description">
             There will be the only four of these NFTs we ever make, so be sure
             not to miss out!
           </p>
           <p className="description">50% of proceeds go to charity.</p>
-          <a href="#" className="link">
+          <div className="link">
             Check them out <BsArrowRight />
-          </a>
+          </div>
         </div>
       </div>
     </div>

@@ -46,7 +46,7 @@ export default function SuperRare() {
         <h2 className="title">LE Super Rare Auction</h2>
         <p className="description">
           We have released four limited edition NFT's early which which can be
-          bid on via <a href="#">OpenSea</a>.
+          bid on via <span>OpenSea</span>.
         </p>
       </div>
       <div className="cards">
